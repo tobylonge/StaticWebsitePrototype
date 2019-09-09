@@ -5,7 +5,7 @@
   "author": "Oluwatobi Alonge",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tobylonge/StaticWebsitePrototype.git"
   },
   "devDependencies": {
     "del": "^2.0.2",
