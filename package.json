@@ -1,0 +1,22 @@
+{
+  "name": "StaticWebsitePrototype",
+  "version": "0.1.0",
+  "description": "A simple static website prototyping using gulp to handle include and minify html and css",
+  "author": "Oluwatobi Alonge",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "latest",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-sass": "^2.0.0",
+    "run-sequence": "^1.2.2",
+    "gulp-file-include": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
